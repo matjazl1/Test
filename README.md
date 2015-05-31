@@ -1,4 +1,4 @@
 # Test
 Testiranje GitHub
-#blabla blal bla
+- blabla blal bla
 
